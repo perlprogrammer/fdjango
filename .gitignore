@@ -1,1 +1,7 @@
 database
+
+
+database/*
+
+!database
+/test.sql
